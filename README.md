@@ -92,9 +92,9 @@ This project utilizes open-source computer vision libraries and is inspired by v
 
 Thanks to the following people who have contributed to this project:
 
+- [Glen Fonceca](https://github.com/GlenFonceca)
 - [Alson Mathias](https://github.com/alsonmathias) 
 - [Dheeraj D Nayak](https://github.com/dheerajnayakk) 
-- [Anush Shetty](https://github.com/anushshetty20)
 
 ## License
 
